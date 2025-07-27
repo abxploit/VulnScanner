@@ -87,16 +87,20 @@ Payload is reflected in response (XSS)
 [!!] SQL Injection vulnerability in form #1 with payload: ' OR '1'='1
 [!!] XSS vulnerability in form #1 with payload: <script>alert(1)</script>
 --------------------------------------------------
-📁 File Structure
+## 📁 File Structure
 
 Vuln_Scanner.py        # Main CLI scanner tool
 README.md              # Project documentation
 
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 This tool is for educational purposes only.
 Do not scan websites without proper authorization.
 Use only on targets you own or are permitted to test.
 
-👨‍💻 Author
+## 👨‍💻 Author
 abxploit – CODTECH Internship
 Built with 💻 using Python and 💡 powered by ethical hacking fundamentals.
+
+## OUTPUT
+
+<img width="739" height="212" alt="Image" src="https://github.com/user-attachments/assets/42844887-b538-403c-a1b0-a39de7a40eb7" />
