@@ -52,11 +52,13 @@ Scan for both SQLi and XSS (default):
 python vuln_scanner.py http://testphp.vulnweb.com/login.php
 ```
 SQLi only:
-```python vuln_scanner.py http://testphp.vulnweb.com/login.php --sqli
+```
+python vuln_scanner.py http://testphp.vulnweb.com/login.php --sqli
 ```
 XSS only:
 
-```python vuln_scanner.py http://testphp.vulnweb.com/login.php --xss
+```
+python vuln_scanner.py http://testphp.vulnweb.com/login.php --xss
 ```
 ## 🔍 How It Works
 
