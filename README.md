@@ -1,3 +1,17 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Abinesh M
+
+INTERN ID: CT04DH572
+
+DOMAIN: Cybersecurity & Ethical Hacking
+
+DURATION: 4 Weeks
+
+MENTOR: NEELA SANTOSH
+
+---
+
 # 🔐 Web Application Vulnerability Scanner (SQLi + XSS)
 
 A command-line tool built with Python to automatically scan web pages for **SQL Injection** and **Cross-Site Scripting (XSS)** vulnerabilities by analyzing HTML forms.
